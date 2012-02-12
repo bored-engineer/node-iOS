@@ -10,5 +10,7 @@ functionality that you want exposed to JavaScript that's missing from the API,
 then please don't hesitate to open an [Issue](https://github.com/innoying/node-iOS/issues)
 requesting it!
 
+You can install it via `npm install node-iOS`
+
 
 Note: This was inspired by TooTallNate's [node-iOS](https://github.com/TooTallNate/node-iOS) which no longer compiles.
